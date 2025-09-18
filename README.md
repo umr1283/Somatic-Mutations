@@ -1,9 +1,9 @@
 # Somatic-Mutations
-This repository contains all code and scripts used to perform mutational signature search and associated figures generation showed in the paper "".
+This repository contains all code and scripts used to perform mutational signature search and associated figures generation showed in the paper "Somatic mosaicism in liver linked to hyperglycemia in metabolic dysfunction-associated steatohepatitis".
 
 **Note: the code has not been tested outside of its original environment and depends on data not publicly available.**
 
-For informations about the methods used for data generation, please look at the associated publication : "".
+For informations about the methods used for data generation, please look at the associated publication : "Somatic mosaicism in liver linked to hyperglycemia in metabolic dysfunction-associated steatohepatitis".
 
 The R version used is the 4.4.1 (June, 2024)
 
