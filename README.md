@@ -1,7 +1,7 @@
 # Somatic-Mutations
 This repository contains all code and scripts used to perform mutational signature search and associated figures generation showed in the paper "".
 
-Note: the code has not been tested outside of its original environment and depends on data not publicly available.
+**Note: the code has not been tested outside of its original environment and depends on data not publicly available.**
 
 For informations about the methods used for data generation, please look at the associated publication : "".
 
